@@ -17,3 +17,18 @@ This repository has the test code and examples for the different features in Jav
 12. In the Command prompt, add the remote repository url
 13. $ git remote add origin (remote-repository)
 14. $ git remote -v
+
+## Courses
+1. Java Streams:
+https://www.youtube.com/watch?v=nEno48RpDR4
+
+2. Spring AOP:
+https://www.udemy.com/course/spring-hibernate-tutorial/learn/lecture/38644326#overview
+
+3. Spring Batch:
+https://www.udemy.com/course/data-batch-processing-with-spring-batch-spring-boot-spring-framework/learn/lecture/29349092#overview
+
+4. Spring Jobs:
+
+5. Java File operations:
+https://www.youtube.com/watch?v=VJgCjLuU4e8&list=PLqleLpAMfxGDVu5tUmUg9jSQUUB8_5DB0&index=1
